@@ -1,3 +1,7 @@
 this is shinler's textfile
 it contains several lines
 and I'm not sure what I'm doing
+
+
+i need to make some changes to this file
+so i am creating new lines
