@@ -1,0 +1,3 @@
+this is shinler's textfile
+it contains several lines
+and I'm not sure what I'm doing
