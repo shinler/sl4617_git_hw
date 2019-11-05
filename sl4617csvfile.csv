@@ -1,7 +1,15 @@
 random csv file
 
+<<<<<<< HEAD
 making a different change to the csv file
 
 this time on master branch instead of branch 1
 
 i wonder where this will lead us
+=======
+making changes to the csv file 
+
+not really sure what changes to be made as well
+
+but this will be sufficient
+>>>>>>> feature1
